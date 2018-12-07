@@ -6,7 +6,7 @@
 </head>
 <body>
 <?php
-echo "Simple php page"
+echo "<h1>Simple php page</h1>"
 ?>
 </body>
 </html>
